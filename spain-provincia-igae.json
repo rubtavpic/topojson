@@ -104,7 +104,5 @@
  
  {"arcs":[[2595]],"type":"Polygon","properties":{"NUTS_ID":"ES630","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ceuta","NUTS_LEVEL3":"Ceuta","FID":"ES630"},"id":"ES630"}, 
  
- {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"},
-
- {"arcs":[[[2563]],[[2587]],[[2578]],[[2598]],[[2599]]],"type":"MultiPolygon","properties":{"ISO":"ESP","NAME_0":"Spain","ID_1":947,"NAME_1":"Islas Baleares","ID_2":13639,"NAME_2":"Baleares","VARNAME_2":"","HASC_2":"ES.PM.BL","TYPE_2":"Provincia","ENGTYPE_2":"Province"}}
+ {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"}
  ]}}}
