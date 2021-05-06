@@ -100,8 +100,10 @@
  
  {"arcs":[[-2584,-2593,-2579,-2589,-2544]],"type":"Polygon","properties":{"NUTS_ID":"ES618","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Andalucía","NUTS_LEVEL3":"Sevilla","FID":"ES618"},"id":"ES618"}, 
  
- {"arcs":[[-2563,2594,-2575,-2585,-2523]],"type":"Polygon","properties":{"NUTS_ID":"ES620","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Región de Murcia","NUTS_LEVEL3":"Murcia","FID":"ES620"},"id":"ES620"}, 
- 
+ {"arcs":[[-2563,2594,-2575,-2585,-2523]],"type":"Polygon","properties":{"NUTS_ID":"ES620","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Región de Murcia","NUTS_LEVEL3":"Murcia","FID":"ES620"},"id":"ES620"},
+    
+ {"arcs":[[[155]],[[156]],[[157]],[[158]],[[159]]],"type":"MultiPolygon","properties":{"NUTS_ID":"ES631","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Illes Balears","NUTS_LEVEL3":"Illes Balears","FID":"ES631"},"id":"ES631"},
+
  {"arcs":[[2595]],"type":"Polygon","properties":{"NUTS_ID":"ES630","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Ceuta","NUTS_LEVEL3":"Ceuta","FID":"ES630"},"id":"ES630"}, 
  
  {"arcs":[[2596]],"type":"Polygon","properties":{"NUTS_ID":"ES640","LEVL_CODE":3,"CNTR_CODE":"ES","NUTS_NAME":"Melilla","NUTS_LEVEL3":"Melilla","FID":"ES640"},"id":"ES640"}
